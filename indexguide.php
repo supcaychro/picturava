@@ -1,9 +1,3 @@
-<?php
-/*
-Template Name: Custom Page Template guide
-*/
-?>
-
 <!DOCTYPE html>
 <html lang="en-US">
 
@@ -652,11 +646,3 @@ jQuery(document).ready(function($) {
 
 <!-- Mirrored from 4klive.us/guide/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Dec 2023 04:16:27 GMT -->
 </html>
-
-
-<!-- Page cached by LiteSpeed Cache 5.5 on 2023-07-22 08:14:40 -->
-
-
-
-<?php
-?>
